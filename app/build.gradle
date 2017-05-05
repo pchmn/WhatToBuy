@@ -6,7 +6,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.pchmn.starterpack"
+        applicationId "com.pchmn.whattobuy"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
@@ -49,4 +49,12 @@ dependencies {
 
     // retrofit
     compile 'com.squareup.retrofit2:retrofit:2.2.0'
+
+    // event bus
+    compile 'org.greenrobot:eventbus:3.0.0'
+
+    // google auth
+    compile 'com.google.android.gms:play-services-auth:10.2.4'
 }
+
+apply plugin: 'com.google.gms.google-services'

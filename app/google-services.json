@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "159549139884",
+    "firebase_url": "https://whattobuy-9f4d3.firebaseio.com",
+    "project_id": "whattobuy-9f4d3",
+    "storage_bucket": "whattobuy-9f4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159549139884:android:6b1ee62e1ece9c9a",
+        "android_client_info": {
+          "package_name": "com.pchmn.whattobuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159549139884-kee1qmmgm3gvr0g1s53ep5e7o179sd3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNkTwrFhOpL3exJFYLBp0NjW6BNqgfjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
